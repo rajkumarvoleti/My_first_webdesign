@@ -1,2 +1,2 @@
 # My_first_webdesign
-obly html is used
+only html is used
